@@ -1,3 +1,5 @@
+#### 'Project created using: Lambda, API Gateway, DynamoDB, AWS S3'
+
 ## `Page`
 
 ![Descripción de la imagen](/screenshots/page.png)
