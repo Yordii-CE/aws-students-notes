@@ -1,0 +1,21 @@
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.btn-send {
+  border: 2px solid #0dcaf0;
+  border-radius: 15px;
+}
+
+form,
+.consideration {
+  margin-top: 20px;
+}
+form {
+  box-shadow: 1px 1px 4px 1px rgb(206, 206, 206);
+}
