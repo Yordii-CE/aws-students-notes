@@ -1,4 +1,8 @@
-#### **Project created using: Lambda, API Gateway, DynamoDB, AWS S3**
+### Details
+- Lambda
+- API Gateway
+- DynamoDB
+- AWS S3
 
 ## `Page`
 
