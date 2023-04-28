@@ -1,4 +1,4 @@
-#### 'Project created using: Lambda, API Gateway, DynamoDB, AWS S3'
+#### **'Project created using: Lambda, API Gateway, DynamoDB, AWS S3**
 
 ## `Page`
 
