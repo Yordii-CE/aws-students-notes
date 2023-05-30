@@ -5,7 +5,7 @@ Try it ▶️ [URL: https://students-notes.s3.us-east-2.amazonaws.com/index.html
 - DynamoDB
 - AWS S3
 
-### Screenshots
+## Screenshots
 
 - Page
 
